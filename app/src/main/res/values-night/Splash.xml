@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="My.App.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground"> @color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/musiclogo</item>
+        <item name="postSplashScreenTheme"> @style/Theme.SimpleMusicPlayer</item>
+    </style>
+
+</resources>
